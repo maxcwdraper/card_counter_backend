@@ -1,0 +1,10 @@
+alembic
+fastapi
+passlib[bcrypt]
+psycopg2-binary
+pydantic
+pyjwt
+python-decouple
+python-multipart
+sqlmodel
+uvicorn
